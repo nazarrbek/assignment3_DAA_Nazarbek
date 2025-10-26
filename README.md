@@ -136,8 +136,8 @@ Both algorithms produce identical total costs for the MST.
 
 | Algorithm | MST Cost | Execution Time (ms) | Operations Count |
 |------------|-----------|---------------------|------------------|
-| Prim’s | 12 | 1.62 | 45 |
-| Kruskal’s | 12 | 1.31 | 33 |
+| Prim’s | 12 | 2.16 | 55 |
+| Kruskal’s | 12 | 1.71 | 31 |
 
 The MST cost is the same for both algorithms, confirming correctness.  
 Kruskal’s algorithm was slightly faster and required fewer operations for this dataset.
